@@ -1,0 +1,49 @@
+/* div {
+   height: 100px;
+   width: 200px;
+   color: black;
+   margin: 25px;
+   padding: 25px;
+   background-color: pink;
+   display: inline-block;
+}
+ */
+
+ .contentbox {
+    
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    
+ }
+
+ #navbar {
+    background-color: black;
+    height: 60px;
+ }
+
+ button {
+    background-color: #f08804;
+ }
+
+ #icon {
+    color: #f08804;
+    font-size: 25px;
+
+ }
+
+ a {
+    margin-right: 200px;
+    text-decoration: none;
+ }
+
+ footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+
+ #content {
+    height: 600px;
+ }

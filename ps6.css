@@ -1,0 +1,37 @@
+
+
+a {
+    text-transform: none;
+    text-decoration: none;
+    
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    background-color: white;
+   
+}
+
+.navbar {
+    color: red;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: pink;
+}
+
+.outer {
+    height: 600px;
+    width: 600px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.inner {
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    align-self: center;
+}

@@ -1,0 +1,21 @@
+.loader {
+
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-top: 10px solid blue;
+    border-left: 10px solid blue;
+    border-bottom: 10px solid blue;
+    border-radius: 50%;
+    animation: spin 5s steps(5) 1ms infinite alternate-reverse;
+    align-self: center;
+    
+
+    
+}
+
+@keyframes spin{
+    from{rotate: 0deg;}
+    to{rotate: 360deg;}
+}
+
